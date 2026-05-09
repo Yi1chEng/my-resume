@@ -16,7 +16,7 @@ export const profile = {
     suffix: "研究。热爱将前沿 AI 技术落地为实际应用，擅长 RAG 系统构建与 LLM 微调。",
   },
   tags: ["数据科学", "大模型 LLM", "智能体 Agent", "RAG", "Python", "LangChain"],
-  resumePdf: "/简历.pdf",
+  resumePdf: "/my-resume/resume.pdf",
 }
 
 export const social = {
@@ -74,17 +74,17 @@ export const education = {
   subtitle: "扎实的理论基础与持续的自我提升。",
   timeline: [
     {
-      period: "2021.09 — 2025.06",
+      period: "2020.09 — 2026.06",
       title: "数据科学与大数据技术 · 学士",
       institution: "湖南农业大学 · 信息与智能科学技术学院",
-      description: "主修：数据结构、操作系统、算法设计、机器学习、深度学习、自然语言处理。GPA 3.85/4.0，专业前 10%。",
-      tags: ["C/C++", "Python", "机器学习", "数据库", "操作系统"],
+      description: "主修：数据结构、操作系统、算法设计、机器学习、深度学习、自然语言处理。GPA 3.3/4.0，专业前 10%。",
+      tags: ["深度学习", "Python", "机器学习", "Agent"],
     },
     {
-      period: "2024.02 — 2024.07",
-      title: "人工智能强化实训",
-      institution: "某知名互联网公司 · 实训项目",
-      description: "参与企业级 LLM 应用开发实训，完成基于 RAG 的智能问答系统全流程开发，获评优秀实训生。",
+      period: "拟录取",
+      title: "软件工程 · 硕士",
+      institution: "北京航空航天大学 · 软件学院",
+      description: "暂无",
       tags: ["LangChain", "RAG", "向量数据库", "FastAPI"],
     },
   ],
